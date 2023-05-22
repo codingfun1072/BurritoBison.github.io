@@ -29,6 +29,7 @@ function ubg235Redirect(host, url) {
   }
 }
 
-// <script>
-//    ubg235Redirect("ubg44.github.io", "https://ubg44.github.io/burrito-bison-launcha-libre-unblocked.html");
-// </script>
+{/* <script src="js/ubg235_redirect.js"></script>
+<script>
+   ubg235Redirect("ubg44.github.io", "https://ubg44.github.io/burrito-bison-launcha-libre-unblocked.html");
+</script> */}
